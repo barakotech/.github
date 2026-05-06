@@ -64,8 +64,8 @@ We partner with startups, SMEs, and enterprises to deliver high-quality digital 
 
 Whether you're starting from scratch or scaling up, we'd love to hear about your project.
 
-📧 **hello@barakotech.com**
-🌐 **www.barakotech.com**
+📧 **hello@barako.tech**
+🌐 **www.barako.tech**
 💼 **[LinkedIn](https://linkedin.com/company/barakotech)**
 
 ---
